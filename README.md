@@ -1,0 +1,1 @@
+Fun experiment to see what method is fastest in solving a maze in C# with a console application. The  Turbo Bit-Array Bot seems currently fastest with less than 1 millisecond calculation time for a 101 by 25 sized maze. 
